@@ -17,7 +17,7 @@ type: contributor
 
 ## Control Open-Source Vulnerabilities
 
-Take control of your open-source software security with the Ortelius vulnerability evidence store. Ortelius ensures you maintain a secure and up-to-date inventory of all the open-source components within your software supply chain. It empowers you to make fast, informed decisions about open-source usage across your entire infrastructure, from code to cloud.
+Take control of your [open-source software security](https://www.deployhub.com/open-source-software-security/) with the Ortelius vulnerability evidence store. Ortelius ensures you maintain a secure and up-to-date inventory of all the open-source components within your software supply chain. It empowers you to make fast, informed decisions about open-source usage across your entire infrastructure, from code to cloud.
 
 Ortelius can quickly show you where an open-source package version is running across your infrastructure. A simple search on a package and version will provide you with a full inventory of where the package is running, and who is consuming it. This search provides teams a quick way to determine the impact of a CVE, and where it needs to be addressed. 
 </div>
@@ -126,7 +126,7 @@ Ortelius seamlessly integrates with popular security tools used in open-source p
 
 ## Conclusion and Get Started Managing Vulnerabilities
 
-From discovering where open-source packages are being used, to federating OpenSSF Scorecard and Application Security Posture Management data, Ortelius serves as a central hub for managing, evaluating, and responding to vulnerabilities, and understanding the risk associated to consuming open-source packages from code to cloud. 
+From discovering where open-source packages are being used, to federating OpenSSF Scorecard and [Application Security Posture Management](https://www.deployhub.com/application-security-posture-management/) data, Ortelius serves as a central hub for managing, evaluating, and responding to vulnerabilities, and understanding the risk associated to consuming open-source packages from code to cloud. 
 
 Get started with Ortelius using the free SaaS version. Take a quick tutorial and see it in action. 
 
