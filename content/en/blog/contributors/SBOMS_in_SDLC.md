@@ -78,6 +78,7 @@ At every supply chain level, the shift from herd vulnerability to herd immunity 
 - [The Minimum Elements For a Software Bill of Materials (SBOM)](https://www.ntia.doc.gov/files/ntia/publications/sbom_minimum_elements_report.pdf)
 - [SBOM Life Cycle by NIST](https://www.nist.gov/itl/executive-order-14028-improving-nations-cybersecurity/software-security-supply-chains-software-1)
 - [Forrester: Why SBOMs Are Critical Now](https://www.forrester.com/blogs/log4j-open-source-maintenance-and-why-sboms-are-critical-now/)
+- [What is SBOM Management?](https://www.deployhub.com/sbom-management-and-sharing/)
 
 ## Useful Tools
 
