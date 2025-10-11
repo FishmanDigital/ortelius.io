@@ -100,7 +100,7 @@ In conclusion, tracking and reporting on security compliance is a multifaceted p
 
 The integration of open-source components introduces additional complexities, such as verifying their security and licensing implications, further underscoring the need for rigorous documentation and regular reviews. Ensuring that security compliance processes are transparent and well-communicated across teams—from developers to IT operations—is critical for maintaining accountability.
 
-Lastly, a structured approach to reporting, both internally and externally, ensures that security issues are addressed promptly and effectively. By establishing clear protocols for testing, tracking, and reporting, organizations can navigate the evolving landscape of security compliance with confidence and resilience. The Ortelius open-source vulnerability management solution can help you get started by gathering critical insights you already have coming from the DevSecOps pipeline. 
+Lastly, a structured approach to reporting, both internally and externally, ensures that security issues are addressed promptly and effectively. By establishing clear protocols for testing, tracking, and reporting, organizations can navigate the evolving landscape of security compliance with confidence and resilience. The Ortelius [open-source vulnerability management](https://www.deployhub.com/open-source-vulnerability-management/) solution can help you get started by gathering critical insights you already have coming from the [DevSecOps pipeline](https://www.deployhub.com/devsecops-pipeline-integration/). 
 
 
 
