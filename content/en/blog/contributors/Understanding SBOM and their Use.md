@@ -30,10 +30,10 @@ Here are the uses of SBOMs:
 Maintaining an accurate and up-to-date SBOM, especially in fast-paced development environments, can be challenging. Large software projects may include hundreds of dependencies, making it difficult to manage all the information within an SBOM. SBOMs can be created and managed in the following ways:
 
 - Automated tools: Companies can generate SBOMs using tools like [CycloneDX](https://cyclonedx.org/), [SPDX](https://spdx.dev/), [Syft](https://github.com/anchore/syft) or others that integrate into their CI/CS pipelines.
-- Development workflows integration: Developers and security teams can incorporate SBOMs into their regular workflows for continuous monitoring and management.
+- Development workflows integration: Developers and security teams can incorporate SBOMs into their regular workflows for continuous monitoring and  management.
 
 ## Why Ortelius?
-The Ortelius project is creating a console that enables users to identify vulnerabilities in software systems and provides enhanced visibility into components such as libraries and microservices, utilised within an organisation. It can consume any SPDX and CycloneDX formatted SBOM to help generate and manage a SBOM in several ways:
+The Ortelius project is creating a console that enables users to identify vulnerabilities in software systems and provides enhanced visibility into components such as libraries and microservices, utilised within an organisation. It can consume any SPDX and CycloneDX formatted SBOM to help generate and [manage a SBOM](https://www.deployhub.com/sbom-management/) in several ways:
 
 - Maps out all microservices with an application, including dependencies and versions.
 - Integrates with DevSecOps processes to automate the generation of SBOMs during the build and deployment stages. By integrating into CI/CD pipelines, it ensures that each release has an updated SBOM. See [How Ortelius Collecting SBOM data with SPDX, CycloneDX and Syft](https://docs.ortelius.io/guides/userguide/integrations/spdx-syft-cyclonedx/) for details.
