@@ -93,7 +93,7 @@ Ortelius operates in lockstep with leading security tools used in open-source pr
 
 From pinpointing the deployment of open-source packages to integrating OpenSSF Scorecard and Application Security Posture Management data, Ortelius functions as a centralized command hub. It empowers teams to manage, assess, and patch vulnerabilities while providing a comprehensive understanding of the risks associated with consuming open-source packages across your entire infrastructure, from code to cloud.
 
-Get started with Ortelius using the free SaaS version. Take a quick tutorial and see it in action.
+Get started with Ortelius [open source vulnerability management](https://www.deployhub.com/open-source-vulnerability-management/) using the free SaaS version. Take a quick tutorial and see it in action.
 
 <div style="font-size:1.8em;text-align:center;margin-top:10px">
 
