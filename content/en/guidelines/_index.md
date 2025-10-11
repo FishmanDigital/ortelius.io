@@ -50,7 +50,7 @@ As the composition of the Ortelius board changes over time, we want to ensure th
 
 ## Ortelius Project Chair: Steve Taylor
 
-**Steve Taylor** is a visionary and industry leader in the area of DevSecOps process improvement, software build and release, and vulnerability management. Steve was designing continuous delivery pipelines for Fortune 1000 companies before the term ‘continuous integration’ was ever used.  Steve is the CTO and Architect of DeployHub, the first [vulnerability management platform](https://www.deployhub.com) that also versions and maps component security details to  and their deployed locations. He is also the  mastermind behind OpenMake Meister, a build automation solution that has served its customers for over 20 years. In his free time, Steve is a Volunteer Firefighter, plays hockey, builds houses and hangs out with his 4 dogs on his ranch in New Mexico.
+**Steve Taylor** is a visionary and industry leader in the area of DevSecOps process improvement, software build and release, and vulnerability management. Steve was designing continuous delivery pipelines for Fortune 1000 companies before the term ‘continuous integration’ was ever used.  Steve is the CTO and Architect of DeployHub, the first [post-deployment vulnerability remediation platform](https://www.deployhub.com) that also versions and maps component security details to  and their deployed locations. He is also the  mastermind behind OpenMake Meister, a build automation solution that has served its customers for over 20 years. In his free time, Steve is a Volunteer Firefighter, plays hockey, builds houses and hangs out with his 4 dogs on his ranch in New Mexico.
 
 {{< /blocks/feature_dual >}}
 {{< /blocks/section >}}
