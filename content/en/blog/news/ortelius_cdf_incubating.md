@@ -43,4 +43,4 @@ Moving to microservices breaks the way we assemble and configure software. Deplo
 
 **About the CD Foundation**
 
-The [Continuous Delivery Foundation (CDF)](https://www.deployhub.com/ortelius-accepted-into-the-continuous-delivery-foundation/cd.foundation) serves as the vendor-neutral home of many of the fastest-growing projects for continuous integration/continuous delivery (CI/CD). It fosters vendor-neutral collaboration between the industry’s top developers, end users and vendors to further CI/CD best practices and industry specifications. Its mission is to grow and sustain projects that are part of the broad and growing continuous delivery ecosystem.
+The Continuous Delivery Foundation (CDF) serves as the vendor-neutral home of many of the fastest-growing projects for continuous integration/continuous delivery (CI/CD). It fosters vendor-neutral collaboration between the industry’s top developers, end users and vendors to further CI/CD best practices and industry specifications. Its mission is to grow and sustain projects that are part of the broad and growing continuous delivery ecosystem.
