@@ -124,7 +124,7 @@ Congratulations to [Sacha Wharton](https://www.linkedin.com/in/sachawharton/) an
 # Getting Started Resources
 
 - [Ortelius Contributor and User Documentation](https://docs.ortelius.io/guides/)
-- [Sign-up and learn Ortelius](https://www.deployhub.com/register-for-team)
+- [Sign-up and learn Ortelius](https://www.deployhub.com/open-source-vulnerability-management/)
 - [Ortelius YouTube Channel](https://www.youtube.com/channel/UCw2LfF0mqkaXdvqfVnIPWmw)
 
 
